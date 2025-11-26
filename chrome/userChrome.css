@@ -6,7 +6,7 @@
 }
 
 #unified-extensions-view {
-  --uei-icon-size: 24px !important; /*  Change icon size */
+  --uei-icon-size: 30px !important; /*  Change icon size */
   --firefoxcss-number-of-extensions-in-a-row: 4; /*  Increase to the number of icons you want in one row */
 }
 
